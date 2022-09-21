@@ -21,7 +21,7 @@
 
 ## Authors
 
-👤 **Misikir Delelew**
+👤 **Misikir Delelew Mulat**
 
 - GitHub: [@githubhandle](https://github.com/MisikirDM)
 
@@ -35,7 +35,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
-Give a ⭐ if you like this project!
+Give a ⭐⭐⭐⭐⭐ if you like this project!
 
 ## Acknowledgments
 
