@@ -1,47 +1,54 @@
-
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Microverse
+# Portfolio
 
- This project is written for purpose of learning and setup the first Microverse project.
+> In this repo I have developed the first hello microverse project.
+
+
 ## Built With
 
-- HTML and CSS
+- HTML
+- CSS
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://github.com/MishDM/Hello-Microverse1)
 
 
 ## Getting Started
 
-**This is hello Microverse project.**
-**Built with simple index.html and style.css file.**
+To get a local copy up and running follow these simple example steps.
 
+### Prerequisites
+
+Modern web browser.
+
+### Setup
+
+Go to https://github.com/MishDM/Hello-Microverse1
 
 ## Authors
 
 👤 **Misikir Delelew**
 
-- GitHub: [@githubhandle](https://github.com/MisikirDM)
-
-
+- GitHub: [@MishMD](https://github.com/MishMD)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/misikir-delelew-114a5946/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
-Give a ⭐ if you like this project!
+Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-
+- Microverse
+- My supportive family 😊
+- My little kid and my wife
+* my friends
 
 ## 📝 License
 
